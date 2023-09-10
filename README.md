@@ -7,5 +7,8 @@ Pengalaman pertama kali belajar di Dicoding
 Belajar kelas dasar SQL. (Progres 78%)
 - Belajar tentang pengantar basis data
 - Belajar mengenai Data Base Management System
+
+*27 Agustus 2023* 
+Belajar kelas dasar SQL. (Progres 85%)
+- Belajar dasar operasi Query SQL  
 - Belajar cara pengoperasian basis data ke dalam Browser SQLite
-- Belajar dasar operasi Query SQL
