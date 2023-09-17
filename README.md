@@ -12,3 +12,8 @@ Belajar kelas dasar SQL. (Progres 78%)
 Belajar kelas dasar SQL. (Progres 85%)
 - Belajar dasar operasi Query SQL  
 - Belajar cara pengoperasian basis data ke dalam Browser SQLite
+
+*31 Agustus 2023*  
+Menyelesaikan kelas dasar SQL. (Progres 100%)
+- Menyelesaikan studi kasus query SQL
+- Menyelesaikan Ujian Akhir pada kelas dasar SQL
